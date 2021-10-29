@@ -6,3 +6,9 @@ body {
     background-color: #eee;
     max-width: 800px;
   }
+
+.div {
+    display: block;
+    position: fixed;
+    border: 3px solid #000;
+}
